@@ -6,7 +6,7 @@ An app that roll dices
 -   Angular
 -   Tailwind CSS
 -   Typescript
--	  Prettier
+-   Prettier
 
 <!-- Installation -->
 
